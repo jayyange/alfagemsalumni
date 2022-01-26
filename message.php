@@ -2,7 +2,7 @@
 <?php
 session_start();
 // initializing variables
-$FFname = "";
+$FFname= "";
 $MFname = "";
 $LFname = "";
 $email = "";
